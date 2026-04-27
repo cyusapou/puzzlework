@@ -1,6 +1,7 @@
 {
   "name": "puzzle-backend",
   "version": "1.0.0",
+  "type": "module",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
